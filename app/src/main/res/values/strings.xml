@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OnBoardingDialog</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_is_just_a_text_sample">This is just a text sample</string>
+    <string name="live_demo">Live demo</string>
+    <string name="get_started">Get Started</string>
+    <string name="this_is_the_second_activity">This is the second activity</string>
+</resources>

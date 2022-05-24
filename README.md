@@ -9,7 +9,8 @@ This is a simple App to demonstrate a Onboarding Dialog
 <img src="Screenshot_20220524-024857.png" width="20%"></img>
 <img src="Screenshot_20220524-024902.png" width="20%"></img>
 
-https://www.youtube.com/shorts/TUuv2Lg4JHM
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/TUuv2Lg4JHM/0.jpg)](http://www.youtube.com/watch?v=TUuv2Lg4JHM "Onboarding Dialog")
 
 
 ### 💻Technology
